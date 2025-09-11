@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo{
+    text-decoration: none;
+    color: black;
+}
+
+.main__text{
+    color: #121212;;
+}
+
+
+.header{
+    height: 5dvh;
+}
+.header__nav{
+    height: 95dvh;
+}
+
+#nav{
+    display: none;
+}
